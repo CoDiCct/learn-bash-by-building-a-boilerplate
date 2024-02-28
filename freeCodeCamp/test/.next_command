@@ -53,3 +53,4 @@ ls --color=auto
 cd freeCodeCamp
 PWD
 pwd
+ls --color=auto
